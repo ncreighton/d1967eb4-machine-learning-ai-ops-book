@@ -1,2 +1,59 @@
-# d1967eb4-machine-learning-ai-ops-book
-Stop wasting hours resolving scheduling conflicts and manual booking errors—let machine learning and AI ops automate your appointment system so you can focus on what matters.  This plugin transforms your WordPress site into a self-optimizing booking engine. Unlike generic schedulers, it uses machine learning to predict no-shows, recommend the best
+=== Machine Learning & AI Ops Booking and Appointment System WordPress Plugin ===
+Contributors: digitalforge
+Requires at least: 5.8
+Tested up to: 6.5
+Stable tag: 1.0.0
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+Online scheduling, payment processing, staff management, and automated reminders. Industry-specific booking without monthly fees.
+
+== Description ==
+
+Online scheduling, payment processing, staff management, and automated reminders. Industry-specific booking without monthly fees.
+
+**Features:**
+
+* Core functionality
+
+== Installation ==
+
+1. Upload the plugin folder to `/wp-content/plugins/`
+2. Activate via WordPress admin > Plugins
+3. Configure via Settings > Machine Learning & AI Ops Booking and Appointment System WordPress Plugin
+
+== Changelog ==
+
+= 1.0.0 =
+* Initial release
+
+== Upgrade Notice ==
+
+= 1.0.0 =
+Initial release.
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/7sY9AT6mXe2M6xy5bucZd2o)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/7sY9AT6mXe2M6xy5bucZd2o)
+
